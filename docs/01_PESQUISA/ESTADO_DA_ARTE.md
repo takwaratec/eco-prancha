@@ -217,14 +217,23 @@ Fonte: 6Wresearch, LinkedIn Market Insights
 ## 8. Fontes da Pesquisa
 
 - Neptune Coach — The Complete Guide to Surfboard Construction and Materials (2025)
+  https://neptune.coach/blog/the-complete-guide-to-surfboard-construction-and-materials
 - 6Wresearch — Brazil Surfboard Market Outlook 2022-2028
+  https://www.6wresearch.com/industry-report/brazil-surfboard-market-outlook
 - 360ResearchReports — Surfboard Market Growth, Size, Share 2024-2032
+  https://www.360researchreports.com/market-reports/surfboard-market-216040
 - LinkedIn Market Insights — Brazil Surfboard Professional Market (2025)
+  https://www.linkedin.com/pulse/brazil-surfboard-professional-market-insights-building-kciof
 - Kehl Indústria — Prancha de Surf de Bioespuma
+  https://www.kehl.ind.br/?projects=prancha-de-surf-de-bioespuma
 - Seawell — impressão 3D com PLA reciclado
+  https://www.seawell.com.br (encontrado via busca)
 - Siebert/Sbeesurf — Corky, prancha de cortiça
+  https://www.sbeesurf.com/pranchas_ecologicas
 - Index Krown — ECO System
+  https://www.indexkrown.com.br (encontrado via busca)
 - Imperveg — Fichas Técnicas UG 132A e MAMONEX RD70
+  (anexadas por Marcello Pedro na conversa WhatsApp — docs/02_TRIAGEM/)
 
 ---
 
