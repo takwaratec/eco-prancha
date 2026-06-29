@@ -233,7 +233,7 @@ Fonte: 6Wresearch, LinkedIn Market Insights
 - Index Krown — ECO System
   https://www.indexkrown.com.br (encontrado via busca)
 - Imperveg — Fichas Técnicas UG 132A e MAMONEX RD70
-  (anexadas por Marcello Pedro na conversa WhatsApp — docs/02_TRIAGEM/)
+  (enviadas por Fabio Takwara a Marcello — acervo técnico Takwara, catalogadas no Acervo Científico)
 
 ---
 
